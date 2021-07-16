@@ -1,0 +1,51 @@
+propertyCode,price,province,municipality,priceByArea,floor,size,rooms,bathrooms,exterior,distance,status,hasLift,propertyType,operation,address,hasParkingSpace,isParkingSpaceIncludedInPrice,district,neighborhood,latitude,longitude,valuation
+37285057,1225000.0,Barcelona,Barcelona,9007,4,136.0,2,3,1,1181,good,1.0,flat,sale,Rosselló,0,0,Eixample,La Dreta de l'Eixample,41.3954,2.16151,overpriced
+40572258,425000.0,Barcelona,Barcelona,4474,1,95.0,4,2,1,2212,good,1.0,flat,sale,Calle del Rosselló,0,0,Eixample,La Nova Esquerra de l'Eixample,41.3829,2.14402,underpriced
+82775284,100000.0,Barcelona,Barcelona,2174,,46.0,2,1,0,833,good,0.0,flat,sale,Calle d'En Botella,0,0,Ciutat Vella,El Raval,41.3803,2.16523,underpriced
+84171634,190000.0,Barcelona,Barcelona,2714,4,70.0,2,1,1,1621,renew,0.0,duplex,sale,"Calle Nou de la Rambla, Barcelona",0,0,Sants-Montjuïc,El Poble Sec - Parc de Montjuïc,41.3724,2.16827,average
+84349307,495000.0,Barcelona,Barcelona,6429,1,77.0,2,3,0,3385,good,1.0,flat,sale,barrio Les Tres Torres,1,0,Sarrià-Sant Gervasi,Les Tres Torres,41.3993,2.13291,overpriced
+85293062,245000.0,Barcelona,Barcelona,2816,4,87.0,3,2,1,3824,good,1.0,flat,sale,Rambla Badal,0,0,Sants-Montjuïc,La Bordeta,41.3663,2.13327,average
+85492723,750000.0,Barcelona,Barcelona,4688,,160.0,3,3,0,659,good,,flat,sale,barrio El Gòtic,0,0,Ciutat Vella,El Gòtic,41.3829,2.17578,overpriced
+86240410,123000.0,Barcelona,Barcelona,1708,2,72.0,3,1,1,7255,good,0.0,flat,sale,Calle del Turó de la Trinitat,0,0,Sant Andreu,La Trinitat Vella,41.4505,2.18964,average
+86373135,2250000.0,Barcelona,Barcelona,4967,5,453.0,5,4,1,2670,good,1.0,flat,sale,"REINA VICTORIA, 1",1,1,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,41.3975,2.14127,average
+86461121,398000.0,Barcelona,Santa Coloma de Gramenet,1658,,240.0,3,3,0,8182,good,,chalet,sale,Calle Rafael Casanova,1,1,Centre,,41.4528,2.2136,underpriced
+86655255,255000.0,Barcelona,Hospitalet de Llobregat,2629,bj,97.0,3,2,1,4188,good,1.0,flat,sale,barrio La Torrasa,0,0,La Torrasa,La Torrasa,41.3708,2.12463,average
+87522875,210000.0,Barcelona,El Prat de Llobregat,2100,2,100.0,4,1,1,9252,renew,1.0,flat,sale,Pau Casals,0,0,Centre,,41.3254,2.09532,average
+87849566,54500.0,Barcelona,Sant Adriá de Besós,1434,,38.0,2,1,0,6400,renew,,flat,sale,Calle de Lleida s/n,0,0,,,41.4248,2.22778,
+88277565,305000.0,Barcelona,Santa Coloma de Gramenet,953,,320.0,5,2,0,7954,good,,chalet,sale,Mas Marí,1,1,Santa Rosa - Can Mariné,,41.4488,2.21793,average
+88534994,175500.0,Barcelona,Sant Joan Despí,2700,,65.0,3,1,1,9758,good,0.0,flat,sale,Calle del Bon Viatge,0,0,Centre,,41.3638,2.05717,overpriced
+88544342,349000.0,Barcelona,Barcelona,1745,1,200.0,4,2,0,1547,good,1.0,flat,sale,"Calle de Tamarit, 115",0,0,Eixample,Sant Antoni,41.3765,2.15775,underpriced
+88590497,1800000.0,Barcelona,Barcelona,11613,2,155.0,3,2,1,917,good,1.0,flat,sale,Paseo de Gràcia,0,0,Eixample,La Dreta de l'Eixample,41.394,2.16435,overpriced
+88856174,129500.0,Barcelona,Sant Joan Despí,1877,,69.0,3,1,0,8500,good,0.0,flat,sale,Calle de València,0,0,Les Planes,,41.3685,2.07113,overpriced
+90914799,350000.0,Barcelona,Barcelona,2593,1,135.0,4,2,1,2218,renew,1.0,flat,sale,Calle de Béjar,0,0,Sants-Montjuïc,Hostafrancs,41.3758,2.14787,average
+90976028,1195000.0,Barcelona,Barcelona,3515,bj,340.0,5,5,0,5417,good,,chalet,sale,barrio Sarrià,1,1,Sarrià-Sant Gervasi,Sarrià,41.4042,2.10927,underpriced
+91219689,98000.0,Barcelona,Esplugues de Llobregat,1815,2,54.0,3,1,1,6106,good,1.0,flat,sale,MENTA s/n,0,0,Can Vidalet,,41.3723,2.09944,underpriced
+91557083,238000.0,Barcelona,Barcelona,4175,en,57.0,2,1,1,1627,good,1.0,flat,sale,Calle de Balboa,0,0,Ciutat Vella,La Barceloneta,41.3822,2.18849,overpriced
+91565353,509000.0,Barcelona,Barcelona,2737,,186.0,4,2,0,3305,good,,flat,sale,barrio El Guinardó,0,0,Horta Guinardó,El Guinardó,41.4161,2.17776,overpriced
+91571310,189000.0,Barcelona,Barcelona,2305,2,82.0,2,1,1,6115,good,1.0,flat,sale,barrio Verdun,1,1,Nou Barris,Verdun,41.4417,2.17647,overpriced
+91585219,260000.0,Barcelona,Barcelona,4000,1,65.0,1,1,1,617,good,1.0,flat,sale,CARME,0,0,Ciutat Vella,El Raval,41.3814,2.17035,overpriced
+91586529,270000.0,Barcelona,Barcelona,4154,2,65.0,1,1,1,440,good,1.0,flat,sale,CARME,0,0,Ciutat Vella,El Raval,41.383,2.16965,overpriced
+91600770,298000.0,Barcelona,Barcelona,2785,,107.0,3,2,0,1127,good,0.0,flat,sale,barrio El Raval,0,0,Ciutat Vella,El Raval,41.377,2.16739,underpriced
+91610849,60000.0,Barcelona,Barcelona,674,st,89.0,1,1,0,7014,good,0.0,flat,sale,barrio Les Roquetes,0,0,Nou Barris,Les Roquetes,41.4499,2.17394,underpriced
+91617902,363400.0,Barcelona,Barcelona,4911,en,74.0,2,1,1,781,good,1.0,flat,sale,Calle de Ausias March,0,0,Eixample,La Dreta de l'Eixample,41.3923,2.17609,underpriced
+91626072,370000.0,Barcelona,Barcelona,5139,4,72.0,3,2,1,1431,good,1.0,flat,sale,Calle del Marquès de Campo Sagrado,0,0,Eixample,Sant Antoni,41.3755,2.16209,underpriced
+91631459,370000.0,Barcelona,Barcelona,3426,en,108.0,5,2,1,842,good,0.0,flat,sale,Calle dels Assaonadors,0,0,Ciutat Vella,Sant Pere - Santa Caterina i la Ribera,41.3851,2.17981,underpriced
+91657360,210000.0,Barcelona,Sant Adriá de Besós,2000,2,105.0,4,2,1,6344,good,1.0,flat,sale,"Calle de la Mare de Déu del Carme, 75",1,0,,,41.4259,2.22556,
+91659029,495000.0,Barcelona,Barcelona,4950,1,100.0,2,1,1,1104,good,0.0,flat,sale,Calle dels Flassaders,0,0,Ciutat Vella,Sant Pere - Santa Caterina i la Ribera,41.3852,2.18305,overpriced
+91659669,219900.0,Barcelona,Barcelona,1486,12,148.0,4,2,1,5408,good,1.0,duplex,sale,barrio La Verneda i la Pau,0,0,Sant Martí,La Verneda i la Pau,41.4262,2.20829,average
+91662958,126000.0,Barcelona,Santa Coloma de Gramenet,2377,1,53.0,2,1,1,8150,good,1.0,flat,sale,Fondo,0,0,Fondo,,41.4496,2.22072,overpriced
+91673354,229800.0,Barcelona,Sant Joan Despí,1665,1,138.0,4,1,1,8738,good,0.0,flat,sale,Calle Les Planes,0,0,Les Planes,,41.3647,2.06954,underpriced
+91684828,110000.0,Barcelona,Santa Coloma de Gramenet,1964,2,56.0,3,1,0,7971,good,0.0,flat,sale,Calle MASSENET,0,0,Fondo,,41.4491,2.2176,underpriced
+91690594,200000.0,Barcelona,Barcelona,2778,en,72.0,3,1,0,4332,renew,1.0,flat,sale,"Paseo de la Vall d'Hebron, 60",0,0,Gràcia,Vallcarca i els Penitents,41.4186,2.13985,average
+91690929,2490000.0,Barcelona,Barcelona,4164,5,598.0,3,4,1,4788,renew,1.0,duplex,sale,Av. de Pedralbes,0,0,Les Corts,Pedralbes,41.3936,2.1133,average
+91731879,166000.0,Barcelona,Barcelona,2000,1,83.0,3,1,1,3843,renew,1.0,flat,sale,Calle de Varsòvia,0,0,Horta Guinardó,El Guinardó,41.4212,2.17576,average
+91746454,206000.0,Barcelona,Barcelona,3121,5,66.0,3,1,1,1395,good,1.0,flat,sale,Calle del Consell de Cent,0,0,Eixample,La Nova Esquerra de l'Eixample,41.3836,2.15388,underpriced
+91752168,186000.0,Barcelona,Badalona,2163,1,86.0,3,1,1,8236,good,0.0,flat,sale,Calle Liszt,0,0,La Salut - Lloreda - Sistrells,La Pau,41.4504,2.2208,average
+91772486,69000.0,Barcelona,Barcelona,1438,st,48.0,0,1,0,3488,renew,1.0,studio,sale,Carretera del Carmel,0,0,Horta Guinardó,Can Baró,41.4175,2.16067,underpriced
+91772600,64000.0,Barcelona,Barcelona,1778,st,36.0,0,1,0,3576,renew,1.0,studio,sale,Carretera del Carmel,0,0,Horta Guinardó,Can Baró,41.4183,2.16055,underpriced
+91795548,133000.0,Barcelona,Santa Coloma de Gramenet,2418,2,55.0,2,1,1,7908,good,1.0,flat,sale,Fondo,0,0,Fondo,,41.4483,2.21785,overpriced
+91828010,140000.0,Barcelona,Barcelona,2642,4,53.0,3,1,1,4865,good,1.0,flat,sale,Calle de Travau,0,0,Nou Barris,Can Peguera - El Turó de la Peira,41.4307,2.17036,overpriced
+91836966,1950000.0,Barcelona,Barcelona,13636,,143.0,3,2,0,1132,good,1.0,flat,sale,barrio La Dreta de l'Eixample,1,1,Eixample,La Dreta de l'Eixample,41.3957,2.16308,overpriced
+91838470,125000.0,Barcelona,Esplugues de Llobregat,2273,3,55.0,3,1,0,6297,good,0.0,flat,sale,PUBILLA CASAS,0,0,Can Vidalet,,41.3722,2.0971,overpriced
+91838556,79000.0,Barcelona,Esplugues de Llobregat,2257,4,35.0,1,1,1,5883,good,0.0,flat,sale,MAGNOLIAS,0,0,Can Vidalet,,41.3756,2.1011,overpriced
+91838610,249000.0,Barcelona,Esplugues de Llobregat,3113,3,80.0,3,1,1,6553,good,1.0,flat,sale,LEALTAD,0,0,Can Clota,,41.3742,2.09331,average

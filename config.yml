@@ -1,0 +1,18 @@
+token_info:
+    url: 'https://api.idealista.com/oauth/token'
+
+api_filters:
+    # Settings:
+    country: 'es' #values: es, it, pt
+    locale: 'es' #values: es, it, pt, en, ca
+    language: 'es'
+    max_items: '50'
+    operation: 'sale'
+    property_type: 'homes'
+    order: 'priceDown'
+    center: '41.386914,2.170000' # Plaza Catalunya
+    distance: '10000' # 10 km around Plaza Catalunya
+    sort: 'desc'
+    bankOffer: 'false'
+    sinceDate : 'M' # we add this in order to just take out the new listings to add to our database every month
+    limit: 1

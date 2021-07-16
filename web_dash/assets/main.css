@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,600&display=swap');
+
+body {
+  background-color: rgba(255, 255, 255, 0.932);
+  font-weight: 300;
+  font-family: "Raleway", Helvetica, sans-serif;
+  color: #222;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: inherit;
+  color: rgb(0, 0, 0);
+  background-color: rgba(255, 255, 255, 0.932);
+  text-align: center;
+  font-weight: bold;
+}
+
+.layout {
+  width: 80%;
+  max-width: 1600px;
+  margin: 0 auto;
+  z-index: 950;
+}
+
+.title {
+  font-size: 3em;
+  margin: 1.5em 0 0.3em 0;
+}
+
+.subtitle {
+  font-size: 2em;
+  margin: 1.5em 0 0.3em 0;
+  text-align: left;
+}
+
+.dcc_components {
+  font-size: 1.1em;
+  margin: 1.5em 0 0.3em 0;
+  font-family: "Raleway", Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.prange_slider {
+  font-size: 10em;
+}
+
+#district-dropdown{
+  font-size: 10em;
+}
+
+.textarea-example-output {
+  display: flex;
+  justify-content: space-around;
+}
+
+#textarea {
+  background-color: rgba(145, 142, 142, 0.205);
+  font-size: 1em;
+  font-family: "Raleway", Helvetica, sans-serif;
+  z-index: 1000;
+}
+
+.prange_slider {
+  font-size: 20em;
+  font-family: "Raleway", Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.district-dropdown {
+  background-color: rgba(10, 10, 10, 0.603);
+}
+
+
+#clustermap {
+  z-index: 900;
+  height: 16cm;
+  width: 75%;
+}
+
+
+.timeline-controls {
+  display: flex;
+  justify-content: space-around;
+  width: 70%;
+  margin: 0 auto;
+}
+
